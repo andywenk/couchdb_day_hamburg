@@ -31,7 +31,7 @@
 19:00 - 19:15 Organisers say goodby  
 19:15 - ??:?? Party  
 
-**Parallel talks** possible if requested - like intorduction to the HTTP API
+**Parallel talks** possible if requested - like introduction to the HTTP API
 
 ##How it works
 
@@ -41,7 +41,7 @@ The day is for the attendees created by the attendees. The idea is a mixture of 
 
 ###1. Introduction
 
-What is CoucHDB?
+What is CouchDB?
 
 ###2. 
 
@@ -91,7 +91,7 @@ How to get involved?
 * event insurance
 * stickers
 	* CouchDB -> Jan
-	* CouchDB Day hamburg -> Andy / Luigi 
+	* CouchDB Day Hamburg -> Andy / Luigi
 * spread the word
 	* Andy: magazines & newsletter! 
 * party location
