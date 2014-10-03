@@ -85,13 +85,13 @@ How to get involved?
 * write introduction
 * get location
 * drinks and food?
-* CouchDB CoC
-* create and deploy website
+* ~~CouchDB CoC~~
+* create and deploy website - first draft now finished, ready to be shown to the PMC
 * sponsoring - if needed
 * event insurance
 * stickers
-	* CouchDB -> Jan
-	* CouchDB Day hamburg -> Andy / Luigi 
+	* ~~CouchDB -> Jan~~
+	* CouchDB Day hamburg -> Andy / Luigi
 * spread the word
 	* Andy: magazines & newsletter! 
 * party location
