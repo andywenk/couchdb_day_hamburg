@@ -90,16 +90,8 @@ How to get involved?
 * sponsoring - if needed
 * event insurance
 * stickers
-<<<<<<< HEAD
 	* ~~CouchDB -> Jan~~
 	* CouchDB Day hamburg -> Andy / Luigi
-||||||| merged common ancestors
-	* CouchDB -> Jan
-	* CouchDB Day hamburg -> Andy / Luigi 
-=======
-	* CouchDB -> Jan
-	* CouchDB Day Hamburg -> Andy / Luigi
->>>>>>> fix small typos
 * spread the word
 	* Andy: magazines & newsletter! 
 * party location
