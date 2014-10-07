@@ -41,6 +41,10 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 
 The day is for the attendees created by the attendees. The idea is a mixture of Barcamp, Conference and OpenTechSchool.
 
+##Website
+
+[https://github.com/robertkowalski/couchdbday](https://github.com/robertkowalski/couchdbday)
+
 ##Talks
 
 ###1. Introduction
@@ -99,7 +103,8 @@ How to get involved?
 	* ~~CouchDB Day Hamburg -> Andy / Luigi~~~
 	* let the PMC approve the sticker
 * create an alternative website layout with the sticker on top (Andy)
-	* ask Noah if we are allowed to use the css from http://couchdb.apache.org/conduct.html 
+	* ask Noah if we are allowed to use the css from http://couchdb.apache.org/conduct.html
+* integrate ticket reservation to website 
 * spread the word
 	* Andy: magazines & newsletter! 
 * party location
