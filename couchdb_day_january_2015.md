@@ -84,6 +84,7 @@ How to get involved?
 
 * write introduction
 * get location
+  * got contact with Anne from http://hamburg.betahaus.de/startseite  
 * drinks and food?
 * ~~CouchDB CoC~~
 * create and deploy website - first draft now finished, ready to be shown to the PMC
