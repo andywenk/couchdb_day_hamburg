@@ -1,5 +1,9 @@
 #CouchDB Day January 2015
 
+##DISCLAIMER
+
+This is work in progress. The names behind the groups are purely ideas who we would like to ask. Nothing decided yet. 
+
 ##Abstract
 
 * for intersted people without knowledge of CouchDB
@@ -54,13 +58,13 @@ What is CouchDB?
 
 How to contribute to Fauxton?
 
-**People:** Robert, Sebastian
+**People:** Robert, Sebastian?
 
 ###2. CouchDB Core (Erlang)
 
 How to contribute to the CouchDB core?
 
-**People:** Klaus, Dave, Jan
+**People:** Klaus, Dave, Jan?
 
 ###3. Use CouchDB
 
@@ -72,13 +76,13 @@ Hack an application with the usage of CouchDB
 
 Build Couchapps and create applications based on Hoodie
 
-**People:** Jan, Andy
+**People:** Jan, Andy?
 
 ###5. The CouchDB Community 
 
 How to get involved?
 
-**People:** Noah, Jan, Andy, Lena
+**People:** Noah, Jan, Andy, Lena?
 
 ##TODO
 
