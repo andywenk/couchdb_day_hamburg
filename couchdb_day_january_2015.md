@@ -96,7 +96,10 @@ How to get involved?
 * event insurance
 * stickers
 	* ~~CouchDB -> Jan~~
-	* CouchDB Day hamburg -> Andy / Luigi
+	* ~~CouchDB Day Hamburg -> Andy / Luigi~~~
+	* let the PMC approve the sticker
+* create an alternative website layout with the sticker on top (Andy)
+	* ask Noah if we are allowed to use the css from http://couchdb.apache.org/conduct.html 
 * spread the word
 	* Andy: magazines & newsletter! 
 * party location
