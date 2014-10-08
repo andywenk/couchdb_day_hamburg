@@ -108,6 +108,7 @@ How to get involved?
 * spread the word
 	* Andy: magazines & newsletter! 
 * create banner and flag?
+* create Sponsors map
 * party location
 
 
