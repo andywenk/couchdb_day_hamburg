@@ -107,6 +107,7 @@ How to get involved?
 * integrate ticket reservation to website 
 * spread the word
 	* Andy: magazines & newsletter! 
+* create banner and flag?
 * party location
 
 
