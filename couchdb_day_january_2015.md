@@ -92,7 +92,8 @@ How to get involved?
 
 * write introduction
 * get location
-  * got contact with Anne from http://hamburg.betahaus.de/startseite  
+  	* got contact with Anne from http://hamburg.betahaus.de/startseite  
+  	* audio available
 * drinks and food?
 * ~~CouchDB CoC~~
 * create and deploy website - first draft now finished, ready to be shown to the PMC
@@ -109,6 +110,7 @@ How to get involved?
 	* Andy: magazines & newsletter! 
 * create banner and flag?
 * create Sponsors map
+* organize someone who takes photos 
 * party location
 
 
