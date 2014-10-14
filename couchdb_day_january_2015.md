@@ -28,7 +28,7 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 09:45 - 10:15 Talk 1  
 10:15 - 10:30 Short break - find your group
 10:30 - 12:30 Hands on  
-12:30 - 13:30 Mittach  
+12:30 - 13:30 Dinner  
 13:30 - 14:15 Talk 2  
 14:15 - 18:15 Hands on   
 18:15 - 19:00 Talk 3  
