@@ -90,22 +90,32 @@ How to get involved?
 
 ##TODO
 
-* write introduction
+* ~~write introduction~~
 * get location
-  	* got contact with Anne from http://hamburg.betahaus.de/startseite  
-  	* audio available
+	* [Betahaus](http://hamburg.betahaus.de/startseite): 
+  		* got contact with Anne and received info
+  		* audio available?
+  	* [Shhared](http://www.shhared.de/):
+  		* visit Tuesday 21.02. with Robert
+  	* SinnerSchrader
+  		* write email to Holger 	
 * drinks and food?
 * ~~CouchDB CoC~~
-* create and deploy website - first draft now finished, ready to be shown to the PMC
-* sponsoring - if needed
+* ~~create and deploy website - first draft now finished, ready to be shown to the PMC~~
+* sponsoring:
+	* Cloudant
+		* get in touch with Mike 
+	* ~~sum.cumo~~
+	* Ubilabs
+		* Klaus will ask
 * event insurance
 * stickers
 	* ~~CouchDB -> Jan~~
 	* ~~CouchDB Day Hamburg -> Andy / Luigi~~~
-	* let the PMC approve the sticker
-* create an alternative website layout with the sticker on top (Andy)
-	* ask Noah if we are allowed to use the css from http://couchdb.apache.org/conduct.html
-* integrate ticket reservation to website 
+	* ~~let the PMC approve the sticker~~
+* ~~create an alternative website layout with the sticker on top (Andy)~~
+	* ~~ask Noah if we are allowed to use the css from http://couchdb.apache.org/conduct.html~~
+* ~~integrate ticket reservation to website tito.io~~
 * spread the word
 	* Andy: magazines & newsletter! 
 * create banner and flag?
