@@ -21,6 +21,12 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 
 **Attendee estimation**: 50 - 80 
 
+##Date
+
+**TOP 1:** February 7th 2015   
+**TOP 2:** January 24th 2015  
+**TOP 3:** February 21st 2015  
+
 ##Schedule
 
 09:00 - 09:30 Get in
