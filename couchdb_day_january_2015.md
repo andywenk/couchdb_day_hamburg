@@ -128,7 +128,7 @@ How to get involved?
 * create Sponsors map
 * organize someone who takes photos 
 * party location
-
+	* Good Old Days - Robert can ask
 
 
 
