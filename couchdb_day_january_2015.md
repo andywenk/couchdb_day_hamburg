@@ -21,6 +21,8 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 
 **Attendee estimation**: 50 - 80 
 
+* We are non-profit and want to help the Community: if we have money left, we are trying to help people who can not afford the travel, like our heros at hoodie: http://blog.hood.ie/2014/04/team-hoodie-gives-away-two-tickets-for-jsunconf-eu/
+
 ##Date
 
 **TOP 1:** February 7th 2015   
@@ -129,6 +131,7 @@ How to get involved?
 * organize someone who takes photos 
 * party location
 	* Good Old Days - Robert can ask
+* help people who can't make it to the day - Robert
 
 
 
