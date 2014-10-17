@@ -57,10 +57,11 @@ The day is for the attendees created by the attendees. The idea is a mixture of 
 
 ###1. Introduction
 
-What is CouchDB?
+What is CouchDB? (Jan?)
 
-###2. 
+###2. CouchDB 2.0
 
+New features in CouchDB 2.0 (Joan Touzet?)
 
 ###3.
 
