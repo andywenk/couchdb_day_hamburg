@@ -31,10 +31,10 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 
 ##Schedule
 
-09:00 - 09:30 Get in
-09:30 - 09:45 Welcome to the CouchDB Day
+09:00 - 09:30 Get in  
+09:30 - 09:45 Welcome to the CouchDB Day  
 09:45 - 10:15 Talk 1  
-10:15 - 10:30 Short break - find your group
+10:15 - 10:30 Short break - find your group  
 10:30 - 12:30 Hands on  
 12:30 - 13:30 Dinner  
 13:30 - 14:15 Talk 2  
