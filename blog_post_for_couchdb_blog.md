@@ -20,7 +20,7 @@ Well, with sponsor money, some financial and tax isuse arise. Luckily and as of 
 
 ##Interested CouchDB folks
 
-Another awesome fact was the interestd of the community. We created a little ticket site at [Tito](https://ti.to/andywenk/couchdbday-hamburg-2015) and after just two days, there were already 20 interested people. Wow. (Side note: a big thank you goes out to Doc at Tito. The support is extremely awesome and you should really check out [Tito](https://ti.to/home). This service is brilliant).
+Another awesome fact was the interestd of the community. We created a little ticket site at [Tito](https://ti.to/andywenk/couchdbday-hamburg-2015) and after just two days, there were already 20 interested people. Without knowing a date, a location or even a schedule for the day. Wow. (Side note: a big thank you goes out to Doc at Tito. The support is extremely awesome and you should really check out [Tito](https://ti.to/home). This service is brilliant).
 
 ##Tickets available - FOR FREE
 
