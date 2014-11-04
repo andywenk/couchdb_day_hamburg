@@ -24,11 +24,11 @@ Another awesome fact was the interestd of the community. We created a little tic
 
 ##Tickets available - FOR FREE
 
-In 1969 one of the organisers of the Woodstoick Festival announced "This is a free concert from now on" even though he knew, that he is ruined. We will not be ruined, but we decided to make this a FREE event. The CouchDB community exists because there are many many volunteers spending their time, ideas and enthusiasm to create an awesome piece of software. We want to give back a little bit. So up from Wednesday, November 5th 10:00 am CET, the tickets are available at our [ticket website](https://ti.to/andywenk/couchdbday-hamburg-2015). Go grab your ticket - now! :)
+In 1969 one of the organisers of the Woodstock Festival announced "This is a free concert from now on" even though he knew, that he is ruined. We will not be ruined, but we decided to make this a FREE event. The CouchDB community exists because there are many many volunteers spending their time, ideas and enthusiasm to create an awesome piece of software. We want to give back a little bit. So up from Wednesday, November 5th 10:00 am CET, the tickets are available at our [ticket website](https://ti.to/andywenk/couchdbday-hamburg-2015). Go grab your ticket - now! :)
 
 ##The Day 
 
-The idea of the CouchDB Day is bringing interested people to one place an do something awesome with CouchDB. We will have three short talks. The rest of the day will be "hands on". We will propose some groups the attendees can join. These are:
+The idea of the CouchDB Day is bringing interested people to one place and do something awesome with CouchDB. We will have three short talks. The rest of the day will be "hands on". We will propose some groups the attendees can join. These are for now:
 
 * CouchDB Core (Erlang)
 * Fauxton
