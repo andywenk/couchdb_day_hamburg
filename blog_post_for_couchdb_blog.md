@@ -16,7 +16,7 @@ It was amazing how fast this grew. First we were just blown away by the super aw
 
 After just two days we already had the sponsors [sum.cumo](http://sumcumo.com) and [Ubilabs](http://ubilabs.net) on board. That was quick. And finally after just two calls, we found the location at [SinnerSchrader](http://www.sinnerschrader.com). They will also spend the drinks for the day. 
 
-Well, with sponsor money, some financial and tax isuse arise. Luckily and as of today, we also fixed that. sum.cumo will take this part and we are extremely happy about that. It makes us very happy to welcome sum.cumo as our co-organiser.
+Well, with sponsor money, some financial and tax isuse arise. Luckily and as of today, we also fixed that. sum.cumo will take this part and we are extremely happy to welcome sum.cumo as co-organiser.
 
 ##Interested CouchDB folks
 
