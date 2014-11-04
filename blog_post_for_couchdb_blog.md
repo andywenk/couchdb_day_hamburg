@@ -14,7 +14,7 @@ It was amazing how fast this grew. First we were just blown away by the super aw
 
 ##Sponsors
 
-After just two days we already had the sponsors [sum.cumo](http://sumcumo.com) and [Ubilabs](http://ubilabs.net) on board. That was quick. And finally after just two calls, we found the location at [SinnerSchrader](http://www.sinnerschrader.com). They will also spend the drinks for the day. Thank you so much! You rock ...
+After just two days we already had the sponsors [sum.cumo](http://sumcumo.com) and [Ubilabs](http://ubilabs.net) on board. That was quick. And finally after just one call and two emails with Holger, we found the location at [SinnerSchrader](http://www.sinnerschrader.com). They will also spend the drinks for the day. Thank you so much! You rock ...
 
 Well, with sponsor money, some financial and tax isuse arise. Luckily and as of today, we also fixed that. sum.cumo will take this part and we are extremely happy to welcome sum.cumo as co-organiser.
 
