@@ -55,9 +55,9 @@ The day is for the attendees created by the attendees. The idea is a mixture of 
 
 ##Talks
 
-###1. Introduction
+###1. Opening Keynote
 
-What is CouchDB? (Jan?)
+Jan Lehnardt
 
 ###2. CouchDB 2.0
 
@@ -85,11 +85,11 @@ Hack an application with the usage of CouchDB
 
 **People:** Andy
 
-###4. Couchapps and Hoodie
+###4. Third party CouchDB Tools 
 
-Build Couchapps and create applications based on Hoodie
+Build applications based on Hoodie, PouchDB and much more
 
-**People:** Jan, Andy?
+**People:** Jan, ...?
 
 ###5. The CouchDB Community 
 
@@ -101,22 +101,30 @@ How to get involved?
 
 * ~~write introduction~~
 * get location
-	* [Betahaus](http://hamburg.betahaus.de/startseite): 
+	* ~~[Betahaus](http://hamburg.betahaus.de/startseite):~~ 
   		* got contact with Anne and received info
   		* audio available?
-  	* [Shhared](http://www.shhared.de/):
+  	* ~~[Shhared](http://www.shhared.de/):~~
   		* visit Tuesday 21.02. with Robert
-  	* SinnerSchrader
-  		* write email to Holger 	
+  	* __SinnerSchrader__
+  		* ~~write email to Holger~~
 * drinks and food?
+	* many attendees prefer or even need vegan food. Ask someone what that means
+	* Ask Diana Knodel for catering company
+	* Ask for mediterran catering - many things vegetarian or vegan people can eat
 * ~~CouchDB CoC~~
 * ~~create and deploy website - first draft now finished, ready to be shown to the PMC~~
 * sponsoring:
 	* Cloudant
-		* get in touch with Mike 
+		* ~~get in touch with Mike~~~
+		* is wip - result will come soon
 	* ~~sum.cumo~~
-	* Ubilabs
-		* Klaus will ask
+	* ~~Ubilabs~~
+	* ~~SinnerScharder~~
+	* Digital Ocean
+		* Ask Jan end of November for contact (Andy)
+* Support from us
+	* sponsor two persons the travel costs (Robert)
 * event insurance
 * stickers
 	* ~~CouchDB -> Jan~~
