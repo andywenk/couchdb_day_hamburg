@@ -124,6 +124,7 @@ How to get involved?
 	* Digital Ocean
 		* Ask Jan end of November for contact (Andy)
 * Support from us
+	* help people who can't make it to the day - Robert 
 	* sponsor two persons the travel costs (Robert)
 * event insurance
 * stickers
@@ -140,7 +141,6 @@ How to get involved?
 * organize someone who takes photos 
 * party location
 	* Good Old Days - Robert can ask
-* help people who can't make it to the day - Robert
 
 
 
