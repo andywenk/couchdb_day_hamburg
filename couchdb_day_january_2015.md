@@ -123,6 +123,8 @@ How to get involved?
 	* ~~SinnerScharder~~
 	* Digital Ocean
 		* Ask Jan end of November for contact (Andy)
+	* Github (Andy)
+	* Xing (Andy)
 * Support from us
 	* help people who can't make it to the day - Robert 
 	* sponsor two persons the travel costs (Robert)
