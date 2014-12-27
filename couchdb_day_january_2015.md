@@ -37,9 +37,9 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 10:15 - 10:30 Short break - find your group  
 10:30 - 12:30 Hands on  
 12:30 - 13:30 Lunch  
-13:30 - 14:15 CouchDB 2.0 - Klaus Trainer 
+13:30 - 14:15 CouchDB 2.0 - Klaus Trainer  
 14:15 - 18:15 Hands on   
-18:15 - 19:00 TBA
+18:15 - 19:00 TBA  
 19:00 - 19:15 Organisers say goodby  
 19:15 - ??:?? Party  
 
@@ -102,6 +102,7 @@ How to get involved?
 * Announcement to CouchDB community, that they have to order tickets till 15.01.2015. After that day we will throw out the rest of the tickets
 * write an email to all attendees from tito at 25.01.2015, if the really want their ticket. If not they shall cancel it please
 * Hoodie activities to be started up from 06.01.2015
+* T-Shirts for organisers and attendees!
 * ~~write introduction~~
 * get location
 	* ~~[Betahaus](http://hamburg.betahaus.de/startseite):~~ 
