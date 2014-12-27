@@ -137,7 +137,8 @@ How to get involved?
 	* sponsor two persons the travel costs (Robert)
 * event insurance
 	* Allianz: papers to go to Robert in the first week of January 2015 	
-* stickers
+* stickers (Andy)
+	* http://www.stickma.de/
 	* ~~CouchDB -> Jan~~
 	* ~~CouchDB Day Hamburg -> Andy / Luigi~~~
 	* ~~let the PMC approve the sticker~~
