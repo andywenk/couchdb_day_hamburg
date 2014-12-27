@@ -33,13 +33,13 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 
 09:00 - 09:30 Get in  
 09:30 - 09:45 Welcome to the CouchDB Day  
-09:45 - 10:15 Talk 1  
+09:45 - 10:15 Keynote by Jan Lehnardt  
 10:15 - 10:30 Short break - find your group  
 10:30 - 12:30 Hands on  
 12:30 - 13:30 Lunch  
-13:30 - 14:15 Talk 2  
+13:30 - 14:15 CouchDB 2.0 - Klaus Trainer 
 14:15 - 18:15 Hands on   
-18:15 - 19:00 Talk 3  
+18:15 - 19:00 TBA
 19:00 - 19:15 Organisers say goodby  
 19:15 - ??:?? Party  
 
@@ -99,6 +99,9 @@ How to get involved?
 
 ##TODO
 
+* Announcement to CouchDB community, that they have to order tickets till 15.01.2015. After that day we will throw out the rest of the tickets
+* write an email to all attendees from tito at 25.01.2015, if the really want their ticket. If not they shall cancel it please
+* Hoodie activities to be started up from 06.01.2015
 * ~~write introduction~~
 * get location
 	* ~~[Betahaus](http://hamburg.betahaus.de/startseite):~~ 
@@ -108,27 +111,32 @@ How to get involved?
   		* visit Tuesday 21.02. with Robert
   	* __SinnerSchrader__
   		* ~~write email to Holger~~
+  		* ask Holger, if we can also stay on Sunday
 * drinks and food?
-	* many attendees prefer or even need vegan food. Ask someone what that means
-	* Ask Diana Knodel for catering company
-	* Ask for mediterran catering - many things vegetarian or vegan people can eat
+	* ~~many attendees prefer or even need vegan food. Ask someone what that means~~
+	* ~~Ask Diana Knodel for catering company~~
+	* ~~Ask for mediterran catering - many things vegetarian or vegan people can eat~~
+	* __Catering will be served by Schanzenstern but we ask also Moritz if he wants to do it (Andy)__
+	* go eat at Schanzenstern 07.01.2015 19h
 * ~~CouchDB CoC~~
 * ~~create and deploy website - first draft now finished, ready to be shown to the PMC~~
 * sponsoring:
 	* Cloudant
 		* ~~get in touch with Mike~~~
-		* is wip - result will come soon
-	* ~~sum.cumo~~
-	* ~~Ubilabs~~
-	* ~~SinnerScharder~~
-	* Digital Ocean
-		* Ask Jan end of November for contact (Andy)
-	* Github (Andy)
-	* Xing (Andy)
+		* ~~is wip - result will come soon~~
+		* ~~the process is super annoying and the conditions are not exceptable for us. So this is cancelled~~
+	* ~~sum.cumo~~__on board__
+	* ~~Ubilabs~~__on board__
+	* ~~SinnerScharder~~__on board__
+	* ~~Digital Ocean~~__on board__
+		* ~~Ask Jan end of November for contact (Andy)~~
+	* ~~Github (Andy)~~__on board__
+	* ~~Xing (Andy)~~
 * Support from us
 	* help people who can't make it to the day - Robert 
 	* sponsor two persons the travel costs (Robert)
 * event insurance
+	* Allianz: papers to go to Robert in the first week of January 2015 	
 * stickers
 	* ~~CouchDB -> Jan~~
 	* ~~CouchDB Day Hamburg -> Andy / Luigi~~~
@@ -142,7 +150,8 @@ How to get involved?
 * create Sponsors map
 * organize someone who takes photos 
 * party location
-	* Good Old Days - Robert can ask
+	* ~~Good Old Days - Robert can ask~~~
+	* Laundrette Hamburg Altona http://www.laundrette.de/Laundrette.html
 
 
 
