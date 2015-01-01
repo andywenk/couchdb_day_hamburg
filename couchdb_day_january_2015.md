@@ -152,7 +152,7 @@ How to get involved?
 	* Andy: magazines & newsletter! 
 * create banner and flag?
 * create Sponsors map
-* organize someone who takes photos 
+* organize someone who takes photos (Robert got an offer from Christan, 95€/hr)
 * party location
 	* ~~Good Old Days - Robert can ask~~~
 	* Laundrette Hamburg Altona http://www.laundrette.de/Laundrette.html
