@@ -42,7 +42,7 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 14:15 - 18:15 Hands on    
 18:15 - 19:00 How to implement token login for new users reusing the cookie
 system in CouchDB - Ólafur Arason
-19:00 - 19:15 Organisers say goodbye 
+19:00 - 19:15 Organisers say goodbye  
 19:15 - ??:?? Party  
 
 **Parallel talks** possible if requested - like introduction to the HTTP API
@@ -128,6 +128,7 @@ How to get involved?
 		* ~~get in touch with Mike~~~
 		* ~~is wip - result will come soon~~
 		* ~~the process is super annoying and the conditions are not exceptable for us. So this is cancelled~~
+		* They finaly got it working - so IBM Cloudant is __on board :D__
 	* ~~sum.cumo~~__on board__
 	* ~~Ubilabs~~__on board__
 	* ~~SinnerScharder~~__on board__
@@ -155,7 +156,7 @@ How to get involved?
 * organize someone who takes photos (Robert got an offer from Christan, 95€/hr)
 * party location
 	* ~~Good Old Days - Robert can ask~~~
-	* Laundrette Hamburg Altona http://www.laundrette.de/Laundrette.html
+	* ~~Laundrette Hamburg Altona http://www.laundrette.de/Laundrette.html~~
 
 
 
