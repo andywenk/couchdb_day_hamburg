@@ -41,7 +41,7 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 14:00 - 14:15 Short break  
 14:15 - 18:15 Hands on    
 18:15 - 19:00 How to implement token login for new users reusing the cookie
-system in CouchDB - Ólafur Arason
+system in CouchDB - Ólafur Arason  
 19:00 - 19:15 Organisers say goodbye  
 19:15 - ??:?? Party  
 
