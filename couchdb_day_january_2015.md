@@ -103,10 +103,13 @@ How to get involved?
 
 ##TODO
 
-* Announcement to CouchDB community, that they have to order tickets till 15.01.2015. After that day we will throw out the rest of the tickets
-* write an email to all attendees from tito at 25.01.2015, if the really want their ticket. If not they shall cancel it please
+
+* print Signs where the event is 
+* ~~Announcement to CouchDB community, that they have to order tickets till 15.01.2015. After that day we will throw out the rest of the tickets~~
+* ~~write an email to all attendees from tito at 25.01.2015, if the really want their ticket. If not they shall cancel it please~~
 * Hoodie activities to be started up from 06.01.2015
-* T-Shirts for organisers and attendees!
+	* status? 
+* ~~T-Shirts for organisers and attendees!~~
 * ~~write introduction~~
 * get location
 	* ~~[Betahaus](http://hamburg.betahaus.de/startseite):~~ 
