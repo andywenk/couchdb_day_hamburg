@@ -37,15 +37,15 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 10:15 - 10:30 Short break - find your group  
 10:30 - 12:30 Hands on  
 12:30 - 13:30 Lunch  
-13:30 - 14:00 CouchDB 2.0 - Klaus Trainer  (20min + 10 min QA)  
-14:00 - 14:15 Short break  
-14:15 - 16:00 Hands on  
-16:00 - 16:30 Coffe and cake  
-16:30 - 18:15 Hands on  
-18:15 - 19:00 How to implement token login for new users reusing the cookie
+13:30 - 14:15 CouchDB 2.0 - Klaus Trainer  (20min talk 1 + 20 min talk 2)  
+14:15 - 14:30 Short break  
+14:30 - 16:15 Hands on  
+16:15 - 16:45 Coffe and cake  
+16:45 - 18:30 Hands on  
+18:30 - 19:15 How to implement token login for new users reusing the cookie
 system in CouchDB - Ólafur Arason  
-19:00 - 19:15 Organisers say goodbye  
-19:15 - ??:?? Party  
+19:15 - 19:30 Organisers say goodbye  
+19:30 - ??:?? Party  
 
 **Parallel talks** possible if requested - like introduction to the HTTP API
 
