@@ -39,7 +39,8 @@ This is work in progress. The names behind the groups are purely ideas who we wo
 12:30 - 13:30 Lunch  
 13:30 - 14:00 CouchDB 2.0 - Klaus Trainer  (20min + 10 min QA)  
 14:00 - 14:15 Short break  
-14:15 - 18:15 Hands on    
+14:15 - 18:15 Hands on
+16:00 - 16:30 Coffe and cake
 18:15 - 19:00 How to implement token login for new users reusing the cookie
 system in CouchDB - Ólafur Arason  
 19:00 - 19:15 Organisers say goodbye  
