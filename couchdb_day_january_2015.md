@@ -157,7 +157,7 @@ How to get involved?
 * spread the word
 	* Andy: magazines & newsletter! 
 * create banner and flag?
-	* we will be sponsored a banner by Proposals for workshops
+	* we will be sponsored a banner by Nico at http://www.ccs-vonderosten.de/cms/index.php
 * create Sponsors map (WHO?)
 * organize someone who takes photos 
 	* ~~(Robert got an offer from Christan, 95€/hr)~~
