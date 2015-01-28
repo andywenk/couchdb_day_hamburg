@@ -124,8 +124,8 @@ How to get involved?
 	* ~~many attendees prefer or even need vegan food. Ask someone what that means~~
 	* ~~Ask Diana Knodel for catering company~~
 	* ~~Ask for mediterran catering - many things vegetarian or vegan people can eat~~
-	* __Catering will be served by Schanzenstern but we ask also Moritz if he wants to do it (Andy)__
-	* go eat at Schanzenstern 07.01.2015 19h
+	* ~~__Catering will be served by Schanzenstern__~~
+	* ~~go eat at Schanzenstern 07.01.2015 19h~~
 * ~~CouchDB CoC~~
 * ~~create and deploy website - first draft now finished, ready to be shown to the PMC~~
 * sponsoring:
@@ -145,7 +145,7 @@ How to get involved?
 	* help people who can't make it to the day - Robert 
 	* sponsor two persons the travel costs (Robert)
 * event insurance
-	* Allianz: papers to go to Robert in the first week of January 2015 	
+	* ~~Allianz: papers to go to Robert in the first week of January 2015~~
 * stickers (Andy)
 	* http://www.stickma.de/
 	* ~~CouchDB -> Jan~~
@@ -157,8 +157,11 @@ How to get involved?
 * spread the word
 	* Andy: magazines & newsletter! 
 * create banner and flag?
-* create Sponsors map
-* organize someone who takes photos (Robert got an offer from Christan, 95€/hr)
+	* we will be sponsored a banner by Proposals for workshops
+* create Sponsors map (WHO?)
+* organize someone who takes photos 
+	* ~~(Robert got an offer from Christan, 95€/hr)~~
+	* Andy asked his friend Burkhard (http://www.fotofrizz.de)
 * party location
 	* ~~Good Old Days - Robert can ask~~~
 	* ~~Laundrette Hamburg Altona http://www.laundrette.de/Laundrette.html~~
